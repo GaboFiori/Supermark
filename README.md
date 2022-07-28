@@ -19,15 +19,15 @@ Solución
 
 	La solución que se le puede brindar al cliente es desarrollar los siguiente subsistemas.
 
--Para el cliente: 
-	-Registrarse.
-	-Iniciar sesión.
-	-Seleccionar productos
-	-ver  listado de productos seleccionados.
-	-Autorizar la compra de los productos seleccionados
+-	Para el cliente: 
+	-	Registrarse.
+	-	Iniciar sesión.
+	-	Seleccionar productos
+	-	ver listado de productos seleccionados.
+	-	Autorizar la compra de los productos seleccionados
 
--Para la Administración:
-	-Cargar productos a la aplicación
-	-Modificar los datos de los productos cargados
-	-Ver todos los usuarios que realizaron una compra
-	-Ver listado de productos seleccionados por el usuario
+-	Para la Administración:
+	-	Cargar productos a la aplicación
+	-	Modificar los datos de los productos cargados
+	-	Ver todos los usuarios que realizaron una compra
+	-	Ver listado de productos seleccionados por el usuario
